@@ -1,4 +1,3 @@
-<h1>Sam Chang is goddamn handsome.</h1>
-git add .
-git commit -a -m "test!!!!"
-git push origin gh-pages
+<h1>學校學系</h1>
+輔仁大學資訊工程學系
+
